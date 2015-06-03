@@ -17,7 +17,7 @@ public class Cartela {
     private int pontos;
     private boolean venceu;
     private final List<Integer> numerosContidosNaCartela;
-    //comentario
+    
     public Cartela(List<Integer> nums){
         this.numerosContidosNaCartela = nums;
         instancia++;
